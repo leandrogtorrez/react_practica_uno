@@ -3,10 +3,10 @@
 
 # Practica React 1
 
-Practica 1 React - Diplomado Full Stack USIP 
+Practica 1 React - Diplomado Full-Stack USIP 2025
 
 # Estudiante
-Luis Gonzalo Garey Tito
+Leandro Giuliano Torrez Cayo
 
 ## Intrucciones
 
